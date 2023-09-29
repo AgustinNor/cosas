@@ -1,0 +1,6 @@
+URI_GET&&http://localhost:9900/api/v1/automation/
+URI_POST&&http://localhost:9900/api/v1/automation/
+
+VALID_TASK:647fe4625c416371c348a528;6465603178df3b23ec3b3ede;64347f1b3d38406ce5a8d843
+
+
